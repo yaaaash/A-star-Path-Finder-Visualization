@@ -3,6 +3,16 @@ This project demonstrates my implementation of the A* algorithm in Python, which
 
 The A* algorithm is a widely used pathfinding algorithm that finds the shortest path between two points on a graph. It is especially useful in grid-based environments, such as maps or mazes.
 
+**Features:**
+- Graphical visualization: The program provides a graphical user interface to visualize the pathfinding process in real time.
+- User interaction: Users can set the start and end points on the grid and add barriers or obstacles that the algorithm must navigate around.
+- Heuristic function: The A* algorithm uses a heuristic function to estimate the distance between two points, allowing it to prioritize paths that are more likely to be shorter.
+- Optimized search: The algorithm intelligently explores the graph, considering both the actual cost to reach a specific point and the estimated cost to reach the goal, leading to more efficient pathfinding.
+
+This project serves as a practical demonstration of the A* algorithm and its applications in solving pathfinding problems.
+
+**Demonstration:**
+
 1. Initially, the grid is displayed in its default state when the script is executed.
    
 ![0](https://github.com/yaaaash/A-star-Path-Finder-Visualization/assets/87315730/46242e36-7a62-4fef-a848-67bd8b71b285)
@@ -27,3 +37,9 @@ The A* algorithm is a widely used pathfinding algorithm that finds the shortest 
 
 
 6. To reset the grid and remove all markings, the user can simply press the 'c' key on their keyboard.
+
+**Real-Life Applications:**
+
+1. Efficient Path Finding: This project showcases a robust implementation of path finding algorithms, enabling users to find optimal routes between locations in diverse scenarios, from GPS navigation to robotics and game development.
+   
+2. Real-World Applications: Explore the practical applications of path finding in fields like logistics, urban planning, network routing, and more, demonstrating the versatility and significance of this code in solving complex spatial problems.
