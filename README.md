@@ -1,6 +1,7 @@
 # A-star-Path-Finder-Visualization
 
 **Overview**
+
 This project demonstrates my implementation of the A* algorithm in Python, which is widely used for efficient pathfinding in grid-based environments. With the help of pygame graphics, I have created a visually interactive application that allows users to define a start and end point and visually observe the algorithm finding the shortest path.
 
 ![5](https://github.com/yaaaash/A-star-Path-Finder-Visualization/assets/87315730/f6871cc0-4824-4c9c-a07d-121f5ebb795e)
