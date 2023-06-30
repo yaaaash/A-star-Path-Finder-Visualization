@@ -4,7 +4,7 @@ This project demonstrates my implementation of the A* algorithm in Python, which
 The A* algorithm is a widely used pathfinding algorithm that finds the shortest path between two points on a graph. It is especially useful in grid-based environments, such as maps or mazes.
 
 1. Initially, the grid is displayed in its default state when the script is executed.
-
+![Image Description](1.png)
 2. The user can interactively select a starting and ending point on the grid using their mouse.
    
 3. Upon initiating the pathfinding process by pressing the space bar, the script visually demonstrates the step-by-step pathfinding from the chosen start point to the end point.
